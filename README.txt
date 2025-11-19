@@ -17,5 +17,3 @@ WARNING: FILES DELETED BY THIS PROGRAM ARE GONE PERMANENTLY. YOU CANNOT RECOVER 
 
 I am not responsible for whatever damage you do to your machine with this program. So please don't risk System32 being deleted just because
 you were being stupid. (Though I'm pretty sure the program can't delete System32 since it doesn't have permissions).
-
-skibidi toilet
