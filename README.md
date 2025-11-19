@@ -5,7 +5,7 @@ Node.js is a program that expands javascripts uses to more than just web develop
 To run the program you need a set of commands.
 Also, if you run this on Windows make sure to run Powershell/CMD with administrator. The program works on Linux too, but obviously instead of running w/ admin you'd add sudo to the last command.
 
-Open your terminal and then change into the directory your file is in.
+Open your terminal and then change into the whatever directory the "russian-roulette.js" file is in.
 ```shell
 cd C:\whatever\the\path\to\your\file\is
 ```
@@ -25,3 +25,4 @@ I am not responsible for whatever damage you do to your machine with this progra
 you were being stupid. (Though I'm pretty sure the program can't delete System32 since the program doesn't have perms lol).
 
 *There is actually a possiblity of recovering your deleted files through the use of certain tools, but without them there's not an explicit way to recover your file(s)
+
