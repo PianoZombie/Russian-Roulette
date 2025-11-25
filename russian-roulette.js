@@ -1,6 +1,4 @@
 console.log("Welcome to russian roulette!");
-// console.log("To use this program please install Node.js and the readlineSync npm package.");
-// console.log("You'll know that you've done it correctly when no error shows up.");
 
 const fs = require("fs"); 
 const readlineSync = require("readline-sync");
